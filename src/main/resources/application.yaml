@@ -12,5 +12,5 @@ spring:
         dialect: org.hibernate.dialect.MySQLDialect
   datasource:
     url: jdbc:mysql://database-1.ci9a66ce64wp.us-east-1.rds.amazonaws.com:3306/ci_cd_product_db
-    username: root
-    password: Chanducra0@
+    username: admin
+    password: Chandu1234
